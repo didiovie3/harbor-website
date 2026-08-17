@@ -1,0 +1,11 @@
+{
+  "name": "harbor-holdings",
+  "version": "1.0.0",
+  "description": "Harbor Holdings Ltd Website",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
