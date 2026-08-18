@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/CPANEL_USERNAME/public_html/
+    - export DEPLOYPATH=/home/harborho/public_html/
     - /bin/cp 404.html $DEPLOYPATH
     - /bin/cp about.html $DEPLOYPATH
     - /bin/cp careers.html $DEPLOYPATH
