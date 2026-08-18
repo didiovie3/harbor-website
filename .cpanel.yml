@@ -20,3 +20,4 @@ deployment:
     - /bin/cp sitemap.xml $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
